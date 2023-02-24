@@ -8,4 +8,4 @@ These are personal projects currently in progress.
 ![screencaps](/assets/images/trap.gif)
 
 ### FORMWHIZ
-![screepcaps](ford_form.gif)
+![screepcaps](/assets/images/ford_form.gif)
