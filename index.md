@@ -15,6 +15,6 @@ A project utilizing tensorflowJS to estimate disc golf form.
 ![screepcaps](/assets/images/ford_form.gif)
 
 ### WHIFFR
-This is an AWS IoT project utilizing Spec Sensors Gas Sensors, Raspberry Pi, and other AWS services to alert of threshold gas levels.
+This is an AWS IoT project utilizing Spec Sensors Gas Sensors, Raspberry Pi, and other AWS services to alert of threshold gas levels, visualized with Grafana.
 
 ![screencaps](/assets/images/no2graph.gif)
